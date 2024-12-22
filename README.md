@@ -1,7 +1,7 @@
 # Initial
 Version Control
 This is a process that involves tracking changes made to files while managing them. These files can be source codes or assets. Another name for version control is Source Code management. Version Control tyes include Distributed version Control systems and Centralized version control systems
-
+ 
 Difference between Git and Github
 Git is a version control system used in tracking changes made to file and managing them whereas Github is a cloud-based hosting service used in managing Git reoitories
 
